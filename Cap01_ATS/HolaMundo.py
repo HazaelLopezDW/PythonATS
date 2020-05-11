@@ -7,5 +7,8 @@
 
 # Estos son comentarios de una sola linea..
 
+mensaje = "Para imprimir un mensaje en consolo hacemos uso de la funcion print('')"
+
 print("Hola Mundo!!!!") # Los comentarios de una sola linea se pueden empezar despues de una linea de codigo
 print("Hola mi sufrido mundo\nTen fé todo va a cambiar")
+print(mensaje) # Con esta funcion print("") mostramos mensajes en consolo
