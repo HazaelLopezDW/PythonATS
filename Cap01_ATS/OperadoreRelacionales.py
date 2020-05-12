@@ -9,6 +9,6 @@
     >=  menor o igual que
     !=  distinto de
     =   asignacion
-    ==  igualdad 
+    ==  igualdad
 '''
 
